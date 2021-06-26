@@ -1,0 +1,12 @@
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\EntitiesLayer\bin\Debug\Entities.dll
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\EntitiesLayer\bin\Debug\Entities.pdb
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\EntitiesLayer\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\EntitiesLayer\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\EntitiesLayer\obj\Debug\Entities.dll
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\EntitiesLayer\obj\Debug\Entities.pdb
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\EntitiesLayer\bin\Debug\Entities.dll
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\EntitiesLayer\bin\Debug\Entities.pdb
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\EntitiesLayer\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\EntitiesLayer\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\EntitiesLayer\obj\Debug\Entities.dll
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\EntitiesLayer\obj\Debug\Entities.pdb

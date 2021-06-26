@@ -1,0 +1,15 @@
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\bin\Debug\Entities.dll
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\source\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\entra21\Desktop\repos\EnterpriseResourcePlanning\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
